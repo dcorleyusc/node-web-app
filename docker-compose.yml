@@ -2,6 +2,6 @@ version: '3.2'
 
 services:
   nodejs:
-    image: dcorley/node-web-app
+    image: node-web-app
     ports:
     - 8080:8080
